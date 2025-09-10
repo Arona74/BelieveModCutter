@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": {
+    "item": "believemod:white_travertine_horizontal_slab",
+    "count": 1
+  }
+}

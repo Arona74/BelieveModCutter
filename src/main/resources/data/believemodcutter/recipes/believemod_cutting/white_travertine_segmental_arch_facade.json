@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": {
+    "item": "believemod:white_travertine_segmental_arch_facade",
+    "count": 1
+  }
+}

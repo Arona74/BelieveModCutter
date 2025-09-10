@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": {
+    "item": "believemod:copper_pipe2",
+    "count": 1
+  }
+}

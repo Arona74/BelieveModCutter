@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": {
+    "item": "believemod:large_cobblestone_segmental_arch_full",
+    "count": 1
+  }
+}

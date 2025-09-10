@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "believemodcutter:block/believemod_cutter_top",
+    "front": "believemodcutter:block/believemod_cutter_front",
+    "side": "believemodcutter:block/believemod_cutter_side"
+  }
+}

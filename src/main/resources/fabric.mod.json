@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "believemodcutter",
+  "version": "1.0.0",
+  "name": "BelieveMod Cutter",
+  "description": "A custom crafting block for organizing BelieveMod blocks recipes",
+  "authors": [
+    "Arona74"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/believemodcutter/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.arona74.believemodcutter.BelieveModCutterMod"
+    ],
+    "client": [
+      "io.arona74.believemodcutter.client.BelieveModCutterClientMod"
+    ],
+    "rei_client": [
+      "io.arona74.believemodcutter.compat.rei.BelieveModCutterREIPlugin"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "believemod": ">=2.9.3"
+  }
+}

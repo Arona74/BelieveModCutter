@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": {
+    "item": "believemod:mossy_stone_brick",
+    "count": 1
+  }
+}

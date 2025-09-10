@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:oak_log"
+  },
+  "result": {
+    "item": "believemod:oak_log_horizontal_corner",
+    "count": 1
+  }
+}

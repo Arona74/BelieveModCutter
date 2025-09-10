@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "result": {
+    "item": "believemod:stone_vertical_corner",
+    "count": 1
+  }
+}

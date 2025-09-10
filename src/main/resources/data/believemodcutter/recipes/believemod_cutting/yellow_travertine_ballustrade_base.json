@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": {
+    "item": "believemod:yellow_travertine_ballustrade_base",
+    "count": 1
+  }
+}

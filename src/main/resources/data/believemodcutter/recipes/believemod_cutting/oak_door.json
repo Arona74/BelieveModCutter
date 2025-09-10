@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:oak_planks"
+  },
+  "result": {
+    "item": "believemod:oak_door",
+    "count": 1
+  }
+}

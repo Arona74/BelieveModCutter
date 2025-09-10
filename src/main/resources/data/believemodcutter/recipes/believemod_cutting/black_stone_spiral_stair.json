@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  },
+  "result": {
+    "item": "believemod:black_stone_spiral_stair",
+    "count": 1
+  }
+}

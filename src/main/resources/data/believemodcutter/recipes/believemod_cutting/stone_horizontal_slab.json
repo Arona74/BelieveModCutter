@@ -1,0 +1,10 @@
+{
+  "type": "believemodcutter:believemod_cutting",
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "result": {
+    "item": "believemod:stone_horizontal_slab",
+    "count": 1
+  }
+}
